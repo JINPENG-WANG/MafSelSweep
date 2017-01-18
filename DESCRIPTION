@@ -1,0 +1,11 @@
+Package: MafSelSweep
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2017-01-18
+Author: Jinming Huang, Jinpeng Wang
+Maintainer: Jinpeng Wang <wangjinpeng0225@163.com>
+Description: More about what it does (maybe more than one line)
+License: GPL
+NeedsCompilation: no
+Packaged: 2017-01-18 08:32:28 UTC; wjp
